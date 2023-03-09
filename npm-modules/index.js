@@ -23,4 +23,4 @@ function logTimer() {
 
 setTimeout(() => {
   clearInterval(logInterval);
-}, 16000);
+}, 60000);
